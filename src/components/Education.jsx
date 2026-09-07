@@ -1,15 +1,15 @@
 const education = [
   {
-    period: "2024 — Present",
-    degree: "Your Degree / Research Programme",
-    institution: "Your University",
+    period: "2025 — 2026",
+    degree: "Msc Data Science",
+    institution: "Roehampton University",
     description:
       "Research focused on artificial intelligence, machine learning and computer vision.",
   },
   {
-    period: "2021 — 2024",
-    degree: "Previous Degree",
-    institution: "Your University",
+    period: "2019 — 2023",
+    degree: "Computer Science",
+    institution: "Makerere University",
     description:
       "Relevant coursework and projects in computer science, data science and artificial intelligence.",
   },

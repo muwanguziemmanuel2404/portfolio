@@ -5,7 +5,7 @@ function Home() {
         <p className="eyebrow">RESEARCHER • COMPUTER VISION • AI</p>
 
         <h1>
-          Hi, I'm <span>Your Name</span>
+          Hi, I'm <span>Emmanuel Muwanguzi</span>
         </h1>
 
         <h2>

@@ -16,7 +16,7 @@ function Contact() {
       <div className="contact-grid">
         <a href="mailto:your.email@example.com" className="contact-card">
           <span>Email</span>
-          <strong>your.email@example.com</strong>
+          <strong>muwanguziemmah64@gmail.com</strong>
         </a>
 
         <a
