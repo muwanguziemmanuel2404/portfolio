@@ -74,8 +74,8 @@ function ResearchProjects() {
               ))}
             </div>
 
-            <a href="link" className="project-link">
-              Discuss project →
+            <a href={project.link} className="project-link" target="_blank" rel="noopener noreferrer">
+              View project →
             </a>
           </article>
         ))}
