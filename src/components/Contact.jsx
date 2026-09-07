@@ -30,7 +30,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://www.linkedin.com/"
+          href="www.linkedin.com/in/emmanuel-muwanguzi-511821216"
           className="contact-card"
           target="_blank"
           rel="noopener noreferrer"

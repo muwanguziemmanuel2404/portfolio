@@ -11,6 +11,7 @@ const projects = [
       "CNNs",
       "Image Classification",
     ],
+    link: "https://drive.google.com/file/d/1YAoaMs72cZWAMANAjcbzXlH6N9UWe_y6/view?usp=drive_link", 
   },
   {
     number: "02",
@@ -24,6 +25,7 @@ const projects = [
       "Computer Vision",
       "NLP",
     ],
+    link: "https://drive.google.com/file/d/1ALvH4_o1esUqe0uhpUZ8HDSKuRVmsK3c/view?usp=drive_link", 
   },
   {
     number: "03",
@@ -37,6 +39,7 @@ const projects = [
       "Segmentation",
       "GIS",
     ],
+    link: "https://drive.google.com/file/d/1jIv4Mv5xxNGATOzATOEjFKmiNHE7j8lF/view?usp=drive_link", 
   },
 ];
 
@@ -71,7 +74,7 @@ function ResearchProjects() {
               ))}
             </div>
 
-            <a href="#contact" className="project-link">
+            <a href="link" className="project-link">
               Discuss project →
             </a>
           </article>
