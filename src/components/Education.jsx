@@ -8,7 +8,7 @@ const education = [
   },
   {
     period: "2019 — 2023",
-    degree: "Computer Science",
+    degree: "Bsc Computer Science",
     institution: "Makerere University",
     description:
       "Relevant coursework and projects in computer science, data science and artificial intelligence.",

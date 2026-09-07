@@ -20,7 +20,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://github.com/"
+          href="https://github.com/muwanguziemmanuel2404"
           className="contact-card"
           target="_blank"
           rel="noopener noreferrer"
