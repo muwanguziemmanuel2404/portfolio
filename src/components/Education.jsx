@@ -2,7 +2,7 @@ const education = [
   {
     period: "2025 — 2026",
     degree: "Msc Data Science",
-    institution: "Roehampton University",
+    institution: "Roehampton University, London",
     description:
       "Research focused on artificial intelligence, machine learning and computer vision.",
   },
