@@ -74,7 +74,7 @@ function ResearchProjects() {
               ))}
             </div>
 
-            <a href="#Contact" className="project-link">
+            <a href="#contact" className="project-link">
               Discuss project →
             </a>
           </article>
