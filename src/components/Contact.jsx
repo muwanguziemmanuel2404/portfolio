@@ -1,0 +1,46 @@
+function Contact() {
+  return (
+    <div className="section-container contact">
+      <div className="section-heading">
+        <p className="eyebrow">CONTACT</p>
+
+        <h2>Let's connect</h2>
+
+        <p>
+          I am always interested in discussing research,
+          collaboration, computer vision and artificial
+          intelligence.
+        </p>
+      </div>
+
+      <div className="contact-grid">
+        <a href="mailto:your.email@example.com" className="contact-card">
+          <span>Email</span>
+          <strong>your.email@example.com</strong>
+        </a>
+
+        <a
+          href="https://github.com/"
+          className="contact-card"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span>GitHub</span>
+          <strong>View my projects →</strong>
+        </a>
+
+        <a
+          href="https://www.linkedin.com/"
+          className="contact-card"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span>LinkedIn</span>
+          <strong>Connect with me →</strong>
+        </a>
+      </div>
+    </div>
+  );
+}
+
+export default Contact;
