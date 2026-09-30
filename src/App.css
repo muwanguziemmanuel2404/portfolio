@@ -567,3 +567,133 @@ section {
     width: 100%;
   }
 }
+
+.approach {
+  background: #ffffff;
+  padding: 100px 0;
+  overflow: hidden;
+}
+
+.approach-container {
+  width: min(1200px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+.approach-header {
+  max-width: 680px;
+}
+
+.approach-eyebrow {
+  display: inline-block;
+  margin-bottom: 16px;
+  color: #2563eb;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.approach-header h2 {
+  margin: 0;
+  color: #0f172a;
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  font-weight: 600;
+  letter-spacing: -0.04em;
+  line-height: 1.1;
+}
+
+.approach-header p {
+  max-width: 620px;
+  margin-top: 24px;
+  color: #64748b;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.approach-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 48px 32px;
+  margin-top: 64px;
+}
+
+.approach-card {
+  position: relative;
+  padding-top: 24px;
+  border-top: 1px solid #e2e8f0;
+  transition: border-color 0.3s ease;
+}
+
+.approach-card:hover {
+  border-color: #2563eb;
+}
+
+.approach-number {
+  color: #2563eb;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.approach-card h3 {
+  margin: 16px 0 0;
+  color: #0f172a;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.approach-card p {
+  margin-top: 12px;
+  color: #64748b;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.approach-accent {
+  display: block;
+  width: 0;
+  height: 2px;
+  margin-top: 24px;
+  background: #2563eb;
+  transition: width 0.3s ease;
+}
+
+.approach-card:hover .approach-accent {
+  width: 48px;
+}
+
+.approach-statement {
+  max-width: 800px;
+  margin-top: 64px;
+  padding-left: 24px;
+  border-left: 2px solid #2563eb;
+}
+
+.approach-statement p {
+  margin: 0;
+  color: #334155;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+@media (max-width: 900px) {
+  .approach-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .approach {
+    padding: 72px 0;
+  }
+
+  .approach-container {
+    width: min(100% - 32px, 1200px);
+  }
+
+  .approach-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+    margin-top: 48px;
+  }
+}

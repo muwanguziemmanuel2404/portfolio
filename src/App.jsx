@@ -7,6 +7,7 @@ import TechnicalSkills from "./components/TechnicalSkills";
 import Education from "./components/Education";
 import CV from "./components/Cv";
 import Contact from "./components/Contact";
+import Approach from "./components/Approach";
 
 function App() {
   return (
@@ -28,6 +29,10 @@ function App() {
 
         <section id="interests">
           <ResearchInterests />
+        </section>
+
+        <section id="approach">
+          <Approach />
         </section>
 
         <section id="skills">

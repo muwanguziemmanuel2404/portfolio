@@ -2,7 +2,7 @@ function Home() {
   return (
     <div className="home">
       <div className="home-content">
-        <p className="eyebrow">RESEARCHER • COMPUTER VISION • AI</p>
+        <p className="eyebrow">DATA ANALYTICS • DATA VISUALIZATION • MACHINE LEARNING</p>
 
         <h1>
           Hi, I'm <span>Emmanuel Muwanguzi</span>
@@ -23,7 +23,7 @@ function Home() {
 
         <div className="home-buttons">
           <a href="#research" className="btn primary">
-            Explore My Research
+            Explore My Projects
           </a>
 
           <a href="#contact" className="btn secondary">

@@ -8,6 +8,7 @@ function Navbar() {
     { name: "About", href: "#about" },
     { name: "Research", href: "#research" },
     { name: "Interests", href: "#interests" },
+    { name: "Approach", href: "#approach" },
     { name: "Skills", href: "#skills" },
     { name: "Education", href: "#education" },
     { name: "CV", href: "#cv" },
