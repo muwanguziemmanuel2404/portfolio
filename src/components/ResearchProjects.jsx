@@ -37,11 +37,12 @@ function ResearchProjects() {
   return (
     <div className="section-container">
       <div className="section-heading">
-        <p className="eyebrow">RESEARCH</p>
-        <h2>Selected Research Projects</h2>
+        <p className="eyebrow">DATA ANALYTICS AND MACHINE LEARNING</p>
+        <h2>Projects</h2>
         <p>
-          Projects exploring the application of artificial
-          intelligence and computer vision to real-world problems.
+          Projects demonstrating my 
+          experience across data analysis, visualisation, 
+          machine learning and applied AI.
         </p>
       </div>
 

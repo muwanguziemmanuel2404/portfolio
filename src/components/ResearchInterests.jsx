@@ -25,7 +25,7 @@ function ResearchInterests() {
   return (
     <div className="section-container">
       <div className="section-heading">
-        <p className="eyebrow">RESEARCH INTERESTS</p>
+        <p className="eyebrow">DATA & ANALYTICS</p>
         <h2>Areas I am exploring</h2>
       </div>
 
