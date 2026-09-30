@@ -10,10 +10,16 @@ function Contact() {
           I'm interested in opportunities involving <strong>data analytics, 
           data visualisation, data engineering, machine learning and applied AI.</strong>
         </p>
+
+        <p>
+          Whether you're interested in my work, 
+          have a project to discuss, or would like 
+          to connect professionally, I'd be happy to hear from you.
+        </p>
       </div>
 
       <div className="contact-grid">
-        <a href="mailto:your.email@example.com" className="contact-card">
+        <a href="mailto:muwanguziemmah64@gmail.com" className="contact-card">
           <span>Email</span>
           <strong>muwanguziemmah64@gmail.com</strong>
         </a>
