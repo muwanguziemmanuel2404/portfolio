@@ -9,15 +9,16 @@ function Home() {
         </h1>
 
         <h2>
-          Researching intelligent systems through
-          computer vision and artificial intelligence.
+          I use data, statistical analysis and machine learning 
+          to uncover meaningful patterns, communicate insights clearly 
+          and build practical data-driven solutions.
         </h2>
 
         <p className="home-description">
-          I am interested in developing machine learning and
-          computer vision methods that can solve real-world
-          problems through visual understanding and intelligent
-          data analysis.
+          My work spans commercial data analysis and visualisation, 
+          machine learning, computer vision and application development, 
+          with a focus on turning complex datasets and problems into structured, 
+          actionable results.
         </p>
 
         <div className="home-buttons">

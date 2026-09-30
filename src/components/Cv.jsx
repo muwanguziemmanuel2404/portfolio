@@ -6,18 +6,18 @@ function CV() {
           <p className="eyebrow">CURRICULUM VITAE</p>
 
           <h2>
-            Interested in my academic and research background?
+            Want to know more?
           </h2>
 
           <p>
-            Download my CV for a detailed overview of my education,
-            research experience, projects, publications and
-            technical skills.
+            Download my CV for a detailed overview 
+            of my education, technical skills, projects 
+            and experience.
           </p>
         </div>
 
         <a
-          href="/cv.pdf"
+          href="/Emmanuel_Muwanguzi_Barclays_Data_Engineer_CV.pdf"
           className="btn primary"
           target="_blank"
           rel="noopener noreferrer"

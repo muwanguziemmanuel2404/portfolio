@@ -1,33 +1,23 @@
 const interests = [
   {
-    title: "Computer Vision",
+    title: "Data Analysis",
     description:
-      "Visual perception, image understanding, object detection and semantic segmentation.",
+      "Preparing, transforming and exploring datasets to uncover patterns, relationships, trends and anomalies.",
   },
   {
-    title: "Deep Learning",
+    title: "Data Visualisation",
     description:
-      "Developing and applying neural network architectures for complex learning problems.",
+      "Turning analytical results into clear visual representations that make complex information easier to understand.",
   },
   {
-    title: "Remote Sensing",
+    title: "Machine Learning",
     description:
-      "Extracting useful information from satellite, aerial and geospatial imagery.",
+      "Developing and evaluating models to identify patterns and make predictions from structured and unstructured data.",
   },
   {
-    title: "Multimodal AI",
+    title: "Applied AI",
     description:
-      "Exploring systems that combine visual and language information for intelligent understanding.",
-  },
-  {
-    title: "AI for Agriculture",
-    description:
-      "Applying machine learning to agricultural monitoring, crop health and plant disease detection.",
-  },
-  {
-    title: "Urban Analytics",
-    description:
-      "Using computer vision and spatial data to understand and analyse urban environments.",
+      "Combining machine learning with software development to create practical, usable applications.",
   },
 ];
 

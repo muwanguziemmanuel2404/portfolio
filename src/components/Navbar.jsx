@@ -12,6 +12,7 @@ function Navbar() {
     { name: "Education", href: "#education" },
     { name: "CV", href: "#cv" },
     { name: "Contact", href: "#contact" },
+    { name: "Approach", href: "#approach" },
   ];
 
   return (

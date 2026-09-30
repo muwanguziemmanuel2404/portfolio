@@ -1,26 +1,39 @@
 const skills = {
-  "Programming": [
+  "Programming & Data": [
     "Python",
     "JavaScript",
     "SQL",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
   ],
   "Machine Learning": [
-    "Scikit-learn",
-    "PyTorch",
-    "TensorFlow",
+    "CNNs",
+    "Machine Learning",
+    "Image Classification",
+    "Model Training",
     "Deep Learning",
+    "Model Evaluation",
   ],
   "Computer Vision": [
     "OpenCV",
     "Image Classification",
     "Object Detection",
-    "Semantic Segmentation",
+    "Feature Extraction",
   ],
-  "Tools & Platforms": [
+  "Development Tools": [
     "Git",
     "GitHub",
-    "Jupyter",
+    "Jupyter Notebook",
+    "Google Colab",
     "VS Code",
+  ],
+  "Application Development": [
+    "Flask",
+    "React",
+    "REST APIs",
+    "FrontEnd / BackEnd Integration",
+    "Machine Learning Model Deployment",
   ],
 };
 

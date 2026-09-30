@@ -4,14 +4,14 @@ const education = [
     degree: "Msc Data Science",
     institution: "Roehampton University, London",
     description:
-      "Research focused on artificial intelligence, machine learning and computer vision.",
+      "Focus areas included data analysis, data visualisation, machine learning, artificial intelligence, computer vision, deep learning and mathematics for data science.",
   },
   {
     period: "2019 — 2023",
     degree: "Bsc Computer Science",
     institution: "Makerere University",
     description:
-      "Relevant coursework and projects in computer science, data science and artificial intelligence.",
+      "Studied computer science with experience across data and information management, artificial intelligence and systems analysis and design.",
   },
 ];
 

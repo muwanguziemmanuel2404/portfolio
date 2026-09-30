@@ -1,43 +1,36 @@
 const projects = [
   {
     number: "01",
-    title: "Plant Disease Detection",
-    category: "Computer Vision / Agriculture",
+    title: "Product Sales Performance, Discount Strategy & Customer Profitability",
+    category: "Data Visualisation & Commercial Analytics",
     description:
-      "A computer vision system designed to identify and classify plant diseases from leaf imagery using machine learning and deep learning techniques.",
+      "The project combined data preparation, exploratory analysis, statistical testing, segmentation and temporal analysis to identify commercially meaningful patterns. Key findings included a strong negative relationship between discount rate and profit margin, significant profitability differences across product categories and regions, and a consistent Q4 seasonal sales peak.",
     technologies: [
       "Python",
-      "Deep Learning",
-      "CNNs",
-      "Image Classification",
+      "Pandas",
+      "NumPy",
+      "Google Colab",
+      "Matplotlib",
+      "Seaborn",
     ],
   },
   {
     number: "02",
-    title: "Image Captioning",
-    category: "Computer Vision / Natural Language",
+    title: "Tomato Disease Detection Using Lightweight CNN",
+    category: "Machine Leaning / Computer Vision / Web Application",
     description:
-      "An image understanding project that combines visual feature extraction with natural language generation to automatically produce meaningful descriptions of images.",
+      "An end-to-end machine learning application for detecting and classifying tomato plant diseases from leaf images using a lightweight Convolutional Neural Network. The project involved image data preparation, preprocessing, model development and evaluation, followed by integration of the trained model into a web application. A Flask backend connects the machine learning model to a React frontend, allowing users to submit plant images and receive model predictions.",
     technologies: [
       "Python",
       "Deep Learning",
+      "React",
+      "Flask",
+      "PyTorch",
       "Computer Vision",
-      "NLP",
+      "CNN",
     ],
   },
-  {
-    number: "03",
-    title: "Urban Infrastructure Extraction",
-    category: "Remote Sensing / Computer Vision",
-    description:
-      "A vision-based approach for extracting and identifying urban infrastructure from imagery to support spatial analysis and intelligent urban planning.",
-    technologies: [
-      "Computer Vision",
-      "Remote Sensing",
-      "Segmentation",
-      "GIS",
-    ],
-  },
+
 ];
 
 function ResearchProjects() {

@@ -7,9 +7,8 @@ function Contact() {
         <h2>Let's connect</h2>
 
         <p>
-          I am always interested in discussing research,
-          collaboration, computer vision and artificial
-          intelligence.
+          I'm interested in opportunities involving <strong>data analytics, 
+          data visualisation, data engineering, machine learning and applied AI.</strong>
         </p>
       </div>
 
