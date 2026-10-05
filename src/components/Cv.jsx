@@ -17,7 +17,7 @@ function CV() {
         </div>
 
         <a
-          href="/Emmanuel_Muwanguzi_Barclays_Data_Engineer_CV.pdf"
+          href="/Emmanuel_Muwanguzi_CV.pdf"
           className="btn primary"
           target="_blank"
           rel="noopener noreferrer"
