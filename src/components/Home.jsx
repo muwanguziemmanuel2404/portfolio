@@ -34,7 +34,7 @@ function Home() {
 
       <div className="home-visual">
         <div className="visual-circle">
-          <span>AI</span>
+          <span>EM</span>
         </div>
       </div>
     </div>
