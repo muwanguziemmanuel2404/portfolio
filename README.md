@@ -281,24 +281,6 @@ This project represents my MSc research work, combining artificial intelligence,
 
 The emphasis on a lightweight CNN aims to make the solution more suitable for practical deployment, while the explainability component helps bridge the gap between model predictions and user understanding.
 
-📂 Repository Structure
-portfolio/
-│
-├── product-sales-analysis/
-│   ├── data/
-│   ├── notebooks/
-│   ├── visualisations/
-│   └── README.md
-│
-├── tomato-disease-detection/
-│   ├── dataset/
-│   ├── model/
-│   ├── notebooks/
-│   ├── web-app/
-│   ├── explainability/
-│   └── README.md
-│
-└── README.md
 
 🚀 Future Improvements
 
